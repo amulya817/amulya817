@@ -5,7 +5,7 @@ Hey there! I’m **Amulya** — an AI explorer who loves blending logic with cre
 From decoding cyber threats in 6G to predicting car prices, I build projects that connect tech with real-world impact.  
 
 I’m always curious about how data can tell stories, how models can learn,  
-and how technology can be made beautifully simple for everyone to use. 💫  
+and how technology can be made beautifully simple for everyone to use.  
 
 ---
 
@@ -15,11 +15,10 @@ and how technology can be made beautifully simple for everyone to use. 💫
 
 ---
 
-## 🧠 About Me
-🎓 Engineering student specializing in **Artificial Intelligence & Machine Learning** at Prerana Institute of Technology and Management.  
-💡 Currently exploring **Data Analytics**, **Edge AI**, and **Explainable Machine Learning**.  
-🚀 I love designing smart, simple, and intuitive web apps that make AI more interactive and human.  
-🌱 Always learning — from model interpretability (SHAP) to storytelling with dashboards.  
+## 🧠 About Me  
+I’m Amulya, an engineering student specializing in Artificial Intelligence and Machine Learning. I’m deeply fascinated by how intelligence can be shaped through data, logic, and design. My curiosity has always been about understanding how technology can learn, adapt, and connect with people in meaningful ways.  
+
+Over time, I’ve worked on projects that blend creativity with precision — from building web applications and machine learning models to developing systems that explore cybersecurity in 6G networks. For me, every project is a balance between innovation and clarity, where ideas are not just built to function but to make an impact. I believe that technology becomes truly powerful when it’s intuitive, transparent, and thoughtfully crafted.  
 
 ---
 
@@ -42,28 +41,27 @@ and how technology can be made beautifully simple for everyone to use. 💫
 
 ## 🧩 Featured Projects  
 
-- 🎯 [**Car Price Prediction System**](https://github.com/amulya817) — ML model predicting car prices with Flask web deployment.  
-- 🧠 [**Reinforcement Learning-Based Cyber Threat Detection in 6G**](https://github.com/amulya817) — DQN + Knowledge Graphs (Neo4j) for smart cybersecurity.  
-- 🌐 [**Commercial Web App – Chaitanya Printers**](https://github.com/amulya817) — Responsive web platform using HTML, CSS, JS, React for real business use.  
+- [**Car Price Prediction System**](https://github.com/amulya817) — ML model predicting car prices with Flask web deployment.  
+- [**Reinforcement Learning-Based Cyber Threat Detection in 6G**](https://github.com/amulya817) — DQN + Knowledge Graphs (Neo4j) for intelligent cybersecurity.  
+- [**Commercial Web App – Chaitanya Printers**](https://github.com/amulya817) — Responsive website built using HTML, CSS, JS, and React for a local business.  
 
 *(More projects live on my GitHub!)*  
 
 ---
 
-## 🪄 Certifications & Highlights  
-📜 Python Programming | C Programming  
-🧩 Deep Learning with TensorFlow  
-🧠 Attention in Transformers (PyTorch)  
-🏆 Participant – DBMS Hackathon @ PESITM  
-🔐 Cybersecurity Bootcamp on 6G @ NITK Surathkal  
+## 🌸 A Little More About Me  
+Beyond code, I’m someone who enjoys observing details — the way design influences experience, how structure builds understanding, and how small choices shape the bigger picture. I find comfort in creative expression, whether it’s through visuals, writing, or ideas that make people feel something genuine.  
+
+I value authenticity, focus, and continuous growth. My calm curiosity keeps me learning, experimenting, and refining — both in technology and in life. In every space I enter, I aim to bring quiet confidence, purpose, and the willingness to make things better than before.  
 
 ---
 
-## 🌸 A Little More About Me  
-✨ IEEE Member | Event Coordinator | Team Player  
-🤝 Love collaborating on tech that inspires people  
-🎨 Obsessed with clean design, clarity, and creativity in code  
-☕ Always up for tech talk, brainstorming, or a cup of coffee & chaos 💭  
+## 🪄 Certifications & Highlights  
+- Python Programming, C Programming  
+- Deep Learning with TensorFlow  
+- Attention in Transformers (PyTorch)  
+- Participant – DBMS Hackathon @ PESITM  
+- Cybersecurity Bootcamp on 6G @ NITK Surathkal  
 
 ---
 
