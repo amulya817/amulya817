@@ -57,20 +57,18 @@ I care about **explainability, structure, and reliability**. For me, technology 
 ### 🩺 Sleep Apnea Detection System (IoT + ML)  
 🔗 https://github.com/amulya817/Sleep-apnea-Detection-with-IOT-  
 
-- Wearable IoT system using **ESP32-C3 + MAX30102**
-- Extracted physiological features (SpO₂, HRV, desaturation events)
-- Trained a **Random Forest classifier (97% accuracy)**
-- Firebase cloud storage + Streamlit dashboard for real-time monitoring  
+- Wearable IoT system using ESP32-C3 and MAX30102  
+- Engineered physiological features and trained a Random Forest model (97% accuracy)  
+- Firebase cloud storage with a real-time Streamlit monitoring dashboard  
 
 ---
 
 ### 🧠 Pediatric Retinal OCT Disease Classification  
 🔗 https://github.com/amulya817/pediatric-retinal-oct  
 
-- Deep learning–based medical image classification system  
-- Fine-tuned **ResNet-18** using transfer learning (PyTorch)  
-- Classified **CNV, DME, DRUSEN, Normal** conditions  
-- GPU-accelerated training using Google Colab  
+- Deep learning–based medical image classification on OCT images  
+- Fine-tuned ResNet-18 using transfer learning in PyTorch  
+- GPU-accelerated training and structured evaluation pipeline  
 
 ---
 
@@ -78,10 +76,27 @@ I care about **explainability, structure, and reliability**. For me, technology 
 🔗 GitHub: https://github.com/amulya817/Habit-tracker  
 🌐 Live: https://habit-tracker-two-beryl.vercel.app/  
 
-- React frontend + FastAPI backend  
-- RESTful APIs with Swagger documentation  
-- Deployed using **Vercel (frontend)** and **Railway (backend)**  
-- Hands-on experience with real deployment and integration issues  
+- React frontend with FastAPI backend  
+- RESTful APIs documented using Swagger/OpenAPI  
+- Deployed using Vercel (frontend) and Railway (backend)  
+
+---
+
+### 🌦️ RainWise — Smart India Hackathon Project  
+🔗 https://github.com/amulya817/RainWise  
+
+- Smart India Hackathon project focused on environmental intelligence  
+- Data-driven approach for rainfall and climate-aware insights  
+- Experience with rapid prototyping and team collaboration  
+
+---
+
+### 🧮 Math Adaptive Prototype  
+🔗 https://github.com/amulya817/math-adaptive-prototype  
+
+- Adaptive learning prototype for personalized math practice  
+- Logic-driven progression based on learner performance  
+- Emphasizes modular design and user-centric flow  
 
 ---
 
