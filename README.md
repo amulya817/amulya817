@@ -63,15 +63,6 @@ I care about **explainability, structure, and reliability**. For me, technology 
 
 ---
 
-### 🧠 Pediatric Retinal OCT Disease Classification  
-🔗 https://github.com/amulya817/pediatric-retinal-oct  
-
-- Deep learning–based medical image classification on OCT images  
-- Fine-tuned ResNet-18 using transfer learning in PyTorch  
-- GPU-accelerated training and structured evaluation pipeline  
-
----
-
 ### 🛠️ Habit Tracker — Full Stack Web Application  
 🔗 GitHub: https://github.com/amulya817/Habit-tracker  
 🌐 Live: https://habit-tracker-two-beryl.vercel.app/  
