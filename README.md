@@ -7,7 +7,7 @@ I work at the intersection of **machine learning, backend development, and deplo
 From **IoT-based healthcare systems** to **full-stack web applications**, I focus on clarity, correctness, and impact — not just models that run, but systems that work.
 
 🌐 **Portfolio:**  
-👉 https://amulya-b-portfolio.streamlit.app/
+👉 https://portfolio-kwgjss3pdaqk5tnxxv63mi.streamlit.app/    
 
 ---
 
